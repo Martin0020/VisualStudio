@@ -1,4 +1,4 @@
-Los párrafos narrativos son aquellos que cuentan una sucesión de hechos o de acciones de manera cronológica. Suelen estar en distintos textos narrativos, como cuentos, novelas, leyendas, mitos, crónicas, biografías y noticias.
+Los párrafos didacticos son aquellos que cuentan una sucesión de hechos o de acciones de manera cronológica. Suelen estar en distintos textos didacticos, como cuentos, novelas, leyendas, mitos, crónicas, biografías y noticias.
 
 Un párrafo es una unidad de un texto que está compuesta por una o varias oraciones, que comienza con una mayúscula y que termina con un punto y aparte. Los textos se organizan de manera tal que cada párrafo trata sobre una idea central.
 
